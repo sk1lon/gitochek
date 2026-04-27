@@ -10,3 +10,7 @@ func main() {
 func eblan() {
 	fmt.Println("YU EBAN")
 }
+
+func adro() {
+
+}
